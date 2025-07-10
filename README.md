@@ -57,8 +57,6 @@ Power BI
 
 Python (Pandas, Numpy, Matplotlib, Scikit-learn)
 
-Jupyter Notebook
-
 📚 Learnings & Outcomes
 
 Built interactive dashboards and visualizations for business and education sectors
