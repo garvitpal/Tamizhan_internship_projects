@@ -58,7 +58,7 @@ The dataset used includes:
 
 ## 📊 Output Example
 
-*(Add your screenshot here if needed)*
+![Student Performance Dashboard](sales_forec.png)
 
 ```python
 # Example code to plot predictions
