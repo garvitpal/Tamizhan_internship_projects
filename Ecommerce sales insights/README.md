@@ -33,7 +33,7 @@ Customer Segment Performance
 
 📷 Dashboard Preview
 
-![E-commerce Sales Dashboard](Screenshot 2025-07-10 142140.png)
+![E-commerce Sales Dashboard](ecomm_dashboard.png)
 
 🛠️ Tools Used
 
